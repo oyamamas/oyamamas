@@ -3,5 +3,5 @@
 </center>
 
 <center> <h1> 
-“In reality loyalty is a moral category, veritas is a theoretical category.”
+«In realtà la fedeltà è una categoria morale, veritas è una categoria teoretica.»
 </h1> </center>
