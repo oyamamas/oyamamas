@@ -1,1 +1,1 @@
-<img src="static/banner.svg"  align="center"> 
+<img src="static/moomins.png"  align="center"> 
